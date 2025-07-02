@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RvY2E0eGllNjhjbjR6Zmx2a2xzMnc5YnAwajRrOXN4cXhuYWVxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif"  />
+<img align="right" height="135" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RvY2E0eGllNjhjbjR6Zmx2a2xzMnc5YnAwajRrOXN4cXhuYWVxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif"  />
 
 ###
 
@@ -26,12 +26,7 @@
 
 ###
 
-<br clear="both">
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=FurkanTheNazim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FurkanTheNazim&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/FurkanTheNazim/FurkanTheNazim/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -39,12 +34,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+<br clear="both">
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=FurkanTheNazim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FurkanTheNazim&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=FurkanTheNazim&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FurkanTheNazim&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/FurkanTheNazim/FurkanTheNazim/output/snake.svg" alt="Snake animation" />
 
 ###
